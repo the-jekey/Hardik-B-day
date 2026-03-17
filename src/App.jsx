@@ -150,7 +150,20 @@ export default function App() {
                                           <div>
 
                                                  <p className="text-sm sm:text-lg">
-                                                        Nisha, you are my happiness and best friend ❤️
+                                                        Nisha,
+
+                                                        On your birthday I just want to say
+                                                        how special you are to me.
+
+                                                        Your smile makes everything better
+                                                        and your friendship makes my life
+                                                        beautiful.
+
+                                                        Thank you for always being there.
+
+                                                        Happy Birthday ❤️
+
+
                                                  </p>
 
                                                  <button
@@ -171,7 +184,8 @@ export default function App() {
                             <div className="relative z-10 h-40 max-w-md">
 
                                    <h2 className="text-2xl sm:text-4xl mb-6">
-                                          Best Friend Forever? ❤️
+
+                                          Will you Best Friend Forever? ❤️
                                    </h2>
 
                                    <button
@@ -211,12 +225,28 @@ export default function App() {
                                    </div>
 
                                    {cake && (
-                                          <button
-                                                 className="mt-6 bg-purple-500 px-6 py-3 rounded-xl"
-                                                 onClick={() => setPage(6)}
-                                          >
-                                                 Next
-                                          </button>
+                                          <>
+
+                                                 <p className="mt-2">
+                                                        Happy Birthday to my favorite person 💖🎉
+
+                                                        You’re not just my best friend, you’re my safe place, my biggest supporter, and the reason behind so many of my happiest memories. I’m so grateful to have you in my life.
+
+                                                        May your day be filled with love, laughter, and everything you’ve been wishing for. You deserve the world and so much more.
+
+                                                        Here’s to more crazy memories, late-night talks, and adventures together 🥳✨
+
+                                                        Love you always ❤️
+                                                 </p>
+
+                                                 <button
+                                                        className="mt-6 bg-purple-500 px-6 py-3 rounded-xl"
+                                                        onClick={() => setPage(6)}
+                                                 >
+
+                                                        Next
+                                                 </button>
+                                          </>
                                    )}
 
                             </div>
@@ -285,11 +315,13 @@ export default function App() {
                                    </h1>
 
                                    <p className="text-sm sm:text-lg">
-                                          This surprise is just for you ❤️
+                                          This website is just a small gift
+                                          but my friendship for you is forever.
                                    </p>
 
                                    <p className="mt-4">
-                                          — Hardik
+                                          Your Best Friend
+                                          Hardik ❤️
                                    </p>
 
                             </div>
